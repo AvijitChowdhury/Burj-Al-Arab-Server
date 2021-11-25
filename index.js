@@ -15,6 +15,7 @@ const port = 5000;
 require('dotenv').config();
 
 
+
 var serviceAccount = require("./configs/burj-al-arab-5e654-firebase-adminsdk-vllg0-15903ca559.json");
 
 admin.initializeApp({
